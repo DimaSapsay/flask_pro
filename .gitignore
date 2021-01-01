@@ -2,3 +2,4 @@
 .idea
 notebook.txt
 __pycache__
+/data.sqlite
