@@ -3,3 +3,4 @@
 notebook.txt
 __pycache__
 /data.sqlite
+/config.ini
